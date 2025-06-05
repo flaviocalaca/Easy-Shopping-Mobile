@@ -20,6 +20,6 @@ Evento exclusivo do curso Front-End Club, promovido pelo Dev Club para ensino de
 <br>
 
 <p align="center">
-  <img alt="projeto Easy Shopping" src=".github." width="100%">
+  <img src="(https://github.com/flaviocalaca/Easy-Shopping-Mobile/blob/main/assets/Desktop.png?raw=true)" width="100%">
 </p>
 
