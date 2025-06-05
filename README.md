@@ -6,8 +6,8 @@ Evento exclusivo do curso Front-End Club, promovido pelo Dev Club para ensino de
 <br/>
 <p align="center" 
 >
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -24,7 +24,10 @@ Evento exclusivo do curso Front-End Club, promovido pelo Dev Club para ensino de
 <br>
   <img src="https://github.com/flaviocalaca/Easy-Shopping-Mobile/blob/main/assets/Mobile.png?raw=true"width="30%"/>
 <br>
-## 🚀 Tecnologias
+<br>
+<br>
+
+  ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
